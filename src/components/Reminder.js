@@ -12,6 +12,7 @@ function Reminder() {
       }
          
     }
+    
     const handleInputChange=(event)=>{
       setNewreminder(event.target.value)
 
